@@ -86,16 +86,16 @@
         },
         {
             "name": "monsieurbon/tiny",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MonsieurBon/tiny.git",
-                "reference": "9eb9040c5eb9eb3c46a5ecf7e99a69fa36272e2a"
+                "reference": "afe28cf8fda3517bded85ec98bce1f97fcf9e721"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MonsieurBon/tiny/zipball/9eb9040c5eb9eb3c46a5ecf7e99a69fa36272e2a",
-                "reference": "9eb9040c5eb9eb3c46a5ecf7e99a69fa36272e2a",
+                "url": "https://api.github.com/repos/MonsieurBon/tiny/zipball/afe28cf8fda3517bded85ec98bce1f97fcf9e721",
+                "reference": "afe28cf8fda3517bded85ec98bce1f97fcf9e721",
                 "shasum": ""
             },
             "require": {
@@ -125,7 +125,7 @@
                 }
             ],
             "description": "A tiny PHP framework",
-            "time": "2018-11-09T07:23:51+00:00"
+            "time": "2018-11-09T15:22:54+00:00"
         },
         {
             "name": "nikic/fast-route",
