@@ -86,16 +86,16 @@
         },
         {
             "name": "monsieurbon/tiny",
-            "version": "v1.1.2",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MonsieurBon/tiny.git",
-                "reference": "b95735a705479fd4acde8af3a44476a24dcac98c"
+                "reference": "30b365cfa660d20fcd2d643c383a2d3938ca400b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MonsieurBon/tiny/zipball/b95735a705479fd4acde8af3a44476a24dcac98c",
-                "reference": "b95735a705479fd4acde8af3a44476a24dcac98c",
+                "url": "https://api.github.com/repos/MonsieurBon/tiny/zipball/30b365cfa660d20fcd2d643c383a2d3938ca400b",
+                "reference": "30b365cfa660d20fcd2d643c383a2d3938ca400b",
                 "shasum": ""
             },
             "require": {
@@ -125,7 +125,7 @@
                 }
             ],
             "description": "A tiny PHP framework",
-            "time": "2018-12-04T20:17:05+00:00"
+            "time": "2018-12-06T21:48:29+00:00"
         },
         {
             "name": "nikic/fast-route",
@@ -222,7 +222,7 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v4.2.0",
+            "version": "v4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
